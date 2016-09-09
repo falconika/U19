@@ -1,12 +1,12 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-
+Karim
 # TEAM
-
+Karim
     <name> -- <role> -- <twitter>
 
 # THANKS
-
+To me
     <name>
 
 # TECHNOLOGY COLOPHON

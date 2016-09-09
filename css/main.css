@@ -55,8 +55,44 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+body{
+   background-color: #1D1D1D;
+   font-style: oblique;
+   font-family: fantasy;
+   color: white;
 
+}
+li{
+   color:#1D1D1D;
+}
+nav{
+   color: inherit;
+   background-color: #1D1D1D;
+}
+.dropdown-toggle{
+   background-color: #1D1D1D;
+}
 
+.image-strat{
+   margin-left: 35%;
+}
+
+footer{
+   background-color: #1D1D1D;
+   position: relative;
+   left:0px;
+   bottom:0px;
+   height:90px;
+   width:100%;
+   text-align: center;
+   color: white;
+}
+footer hr{
+   padding-top: 0;
+}
+.dropdown{
+   background-color:#1D1D1D;
+}
 /* ##################################################################### */
 /* ##########################   SMARTPHONE   ########################### */
 /* ##################################################################### */
